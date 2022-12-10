@@ -3,7 +3,8 @@ An application to download Videos and Music from Youtube
 
 Python libraries requested: PySimpleGUI, moviepy, pytube, threading, webbrowser,  time, os
 
-![YouTube Downloader Screnshot](https://user-images.githubusercontent.com/76481108/205465302-82299eee-55fc-47de-aae0-fc62f984a85c.PNG)
+
+![YouTube Downloader Screnshot](https://user-images.githubusercontent.com/76481108/206858111-faf493e5-b4c4-4263-9907-76772c2278d7.PNG)
 
 A PyInstall package is available at: https://mastermind.altervista.org/youtube-downloader/
 
