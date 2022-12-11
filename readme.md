@@ -1,6 +1,7 @@
-﻿1. **YouTube-DownLoader-GUI**
+**YouTube-DownLoader-GUI**
 
 An application to download Videos and Music from Youtube
+
 
 **Dependecies:**
 
@@ -10,11 +11,13 @@ Pytube
 Threading  
 Webbrowser
 
+
 **Screenshot:**
 
 ![YouTube Downloader Screnshot](Aspose.Words.02392d84-84ea-4a17-a3fd-99fda3114872.001.png)
 
 A PyInstall package is available at: <https://mastermind.altervista.org/youtube-downloader/>
+
 
 **Features:**
 
@@ -24,6 +27,7 @@ Download Video and Audio from Playlist
 Up to 6 URLs links input. Video o Playlist.
 Convert MP4 files to MP3
 Set and remember the work folder
+
 
 **How to use:**
 
